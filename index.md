@@ -17,6 +17,8 @@ See [Google Scholar page](https://scholar.google.com/citations?user=AkJ_MJ8AAAAJ
 
 ### Other
 
+Otherwise interested in the work of:
+
 DIONYSIUS THE (pseudo-) AREOPAGITE (c. 500)
 [THE MYSTICAL THEOLOGY](http://www.ldysinger.com/@texts/0500_dion_aer/03_dion-mys_th.htm) 
 
