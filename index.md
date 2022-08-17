@@ -1,14 +1,20 @@
-## Welcome to GitHub Pages
+## Recent Manuscripts
 
-You can use the [editor on GitHub](https://github.com/mkleinsa/mkleinsa.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Under review:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Latent Regression in Higher-Order Item Response Theory with the R Package hlt](https://mkleinsa.github.io/doc/hlt_proof_draft_brmic.pdf).
+
+Github repository for hlt: [hlt package](https://github.com/mkleinsa/hlt) 
+
+Published:
+
+See [Google Scholar page](https://scholar.google.com/citations?user=AkJ_MJ8AAAAJ&hl=en&oi=sra) 
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+``` markdown
 Syntax highlighted code block
 
 # Header 1
@@ -34,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we'll help you sort it out.
