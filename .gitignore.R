@@ -5,6 +5,8 @@
 .Rhistory
 .Rapp.history
 
+.DS_Store
+
 # Session Data files
 .RData
 
@@ -40,10 +42,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# pkgdown site
-docs/
-doc/
 
 # translation temp files
 po/*~
