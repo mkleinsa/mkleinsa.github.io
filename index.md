@@ -25,3 +25,6 @@ DIONYSIUS THE (pseudo-) AREOPAGITE (c. 500)
 René Girard (1923—2015)
 [about](https://iep.utm.edu/girard/#SH6a) 
 
+### Upcoming R workshops
+
+[Upcoming workshops PDF](https://mkleinsa.github.io/doc/Fall_Workshops_2022) 
