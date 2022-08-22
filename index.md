@@ -27,4 +27,4 @@ René Girard (1923—2015)
 
 ### Upcoming R workshops
 
-[Upcoming workshops PDF](https://mkleinsa.github.io/doc/Fall_Workshops_2022.pdf) 
+[Upcoming workshops PDF](https://mkleinsa.github.io/doc/fw.pdf) 

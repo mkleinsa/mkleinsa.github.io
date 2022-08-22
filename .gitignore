@@ -41,13 +41,11 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-doc/
-
 # translation temp files
 po/*~
 
 ### R.Bookdown Stack ###
 # R package: bookdown caching files
 /*_files/
+
+.DS_Store
